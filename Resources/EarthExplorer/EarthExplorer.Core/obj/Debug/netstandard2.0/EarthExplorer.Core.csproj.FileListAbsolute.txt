@@ -1,0 +1,9 @@
+D:\SP_XamarinWorkshop\Resources\EarthExplorer\EarthExplorer.Core\bin\Debug\netstandard2.0\EarthExplorer.Core.deps.json
+D:\SP_XamarinWorkshop\Resources\EarthExplorer\EarthExplorer.Core\bin\Debug\netstandard2.0\EarthExplorer.Core.dll
+D:\SP_XamarinWorkshop\Resources\EarthExplorer\EarthExplorer.Core\bin\Debug\netstandard2.0\EarthExplorer.Core.pdb
+D:\SP_XamarinWorkshop\Resources\EarthExplorer\EarthExplorer.Core\obj\Debug\netstandard2.0\EarthExplorer.Core.csprojAssemblyReference.cache
+D:\SP_XamarinWorkshop\Resources\EarthExplorer\EarthExplorer.Core\obj\Debug\netstandard2.0\EarthExplorer.Core.csproj.CoreCompileInputs.cache
+D:\SP_XamarinWorkshop\Resources\EarthExplorer\EarthExplorer.Core\obj\Debug\netstandard2.0\EarthExplorer.Core.AssemblyInfoInputs.cache
+D:\SP_XamarinWorkshop\Resources\EarthExplorer\EarthExplorer.Core\obj\Debug\netstandard2.0\EarthExplorer.Core.AssemblyInfo.cs
+D:\SP_XamarinWorkshop\Resources\EarthExplorer\EarthExplorer.Core\obj\Debug\netstandard2.0\EarthExplorer.Core.dll
+D:\SP_XamarinWorkshop\Resources\EarthExplorer\EarthExplorer.Core\obj\Debug\netstandard2.0\EarthExplorer.Core.pdb
